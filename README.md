@@ -20,10 +20,12 @@ subdom.py: error: the following arguments are required: -d/--domain
 ```bash
 git clone https://github.com/h4rithd/SubD0m.git
 cd SubD0m
+```
 
 2. Install the required libraries:
 ``` bash
 pip install argparse tqdm requests
+```
 
 3. Run the script:
 ```bash
